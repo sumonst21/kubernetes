@@ -5,7 +5,6 @@ module k8s.io/apiserver
 go 1.12
 
 require (
-	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/BurntSushi/toml v0.3.0 // indirect
 	github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46 // indirect
 	github.com/coreos/bbolt v1.3.1-coreos.6 // indirect
@@ -14,7 +13,6 @@ require (
 	github.com/coreos/go-semver v0.0.0-20180108230905-e214231b295a // indirect
 	github.com/coreos/go-systemd v0.0.0-20180511133405-39ca1b05acc7
 	github.com/coreos/pkg v0.0.0-20180108230652-97fdf19511ea
-	github.com/docker/docker v0.7.3-0.20190327010347-be7ac8be2ae0
 	github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633
 	github.com/evanphx/json-patch v0.0.0-20190203023257-5858425f7550
 	github.com/ghodss/yaml v0.0.0-20180820084758-c7ce16629ff4 // indirect
@@ -56,7 +54,6 @@ require (
 	gopkg.in/square/go-jose.v2 v2.0.0-20180411045311-89060dee6a84
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0 // indirect
 	gopkg.in/yaml.v2 v2.2.1
-	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
 	k8s.io/client-go v0.0.0
